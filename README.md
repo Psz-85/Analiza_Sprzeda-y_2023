@@ -10,16 +10,19 @@ Technologie:
 
 Zawartość repozytorium:
 
+
 1. SQL
 - Tworzenia baz danych i tabel (`Customers`, `Products`, `Orders`, `OrderDetails`).
 - Wstawiania przykładowych danych do tabel.
 - Łączenia tabel i generowania zapytań analitycznych.
+
 
 2. Python
 - Wczytywania danych z plików CSV.
 - Łączenia danych w jedną tabelę.
 - Przeprowadzania analizy przychodów według kategorii produktów oraz w czasie.
 - Generowania wykresów przychodów w zależności od kategorii produktów i czasu.
+
   
 3. Power BI
 Raporty i wizualizacje przy użyciu Power BI:
