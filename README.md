@@ -9,14 +9,13 @@ Technologie:
 - Power BI	Do tworzenia interaktywnych wizualizacji i raportów.
 
 Zawartość repozytorium:
-1. SQL
 
+1. SQL
 - Tworzenia baz danych i tabel (`Customers`, `Products`, `Orders`, `OrderDetails`).
 - Wstawiania przykładowych danych do tabel.
 - Łączenia tabel i generowania zapytań analitycznych.
 
 2. Python
-
 - Wczytywania danych z plików CSV.
 - Łączenia danych w jedną tabelę.
 - Przeprowadzania analizy przychodów według kategorii produktów oraz w czasie.
