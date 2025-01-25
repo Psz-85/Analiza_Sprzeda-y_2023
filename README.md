@@ -29,14 +29,17 @@ Raporty i wizualizacje przy użyciu Power BI:
 - Budowanie raportów i wykresów.
 
 Cel Projektu:
+
 Projekt ma na celu analizę sprzedaży na podstawie danych historycznych. Analiza obejmuje przychody według kategorii produktów oraz analizę czasową przychodów, z użyciem narzędzi takich jak Power BI do tworzenia wizualizacji.
 
 Wymagania:
+
 SQL	Dostęp do bazy danych kompatybilnej z SQL.
 Python	Biblioteki `pandas`, `matplotlib`, `seaborn`.
 Power BI	Desktop wersja Power BI.
 
 Pliki:
+
 SQL Scripts	Skrypty do tworzenia tabel, wstawiania danych i wykonywania zapytań.
 Python Scripts	Skrypt Pythona do analizy danych i generowania wykresów.
 Power BI Report	Dashboard w Power BI.
