@@ -4,9 +4,9 @@ Projekt analizy sprzedaży na podstawie danych dotyczących klientów, produktó
 
 Technologie:
 
-SQL	do tworzenia bazy danych i zarządzania danymi.
-Python	do analizy danych i generowania wykresów.
-Power BI	do tworzenia interaktywnych wizualizacji i raportów.
+- SQL	do tworzenia bazy danych i zarządzania danymi.
+- Python	do analizy danych i generowania wykresów.
+- Power BI	do tworzenia interaktywnych wizualizacji i raportów.
 
 Zawartość repozytorium:
 1. SQL
@@ -35,13 +35,13 @@ Projekt ma na celu analizę sprzedaży na podstawie danych historycznych. Analiz
 
 Wymagania:
 
-SQL	Dostęp do bazy danych kompatybilnej z SQL.
-Python	Biblioteki `pandas`, `matplotlib`, `seaborn`.
-Power BI	Desktop wersja Power BI.
+- SQL	Dostęp do bazy danych kompatybilnej z SQL.
+- Python	Biblioteki `pandas`, `matplotlib`, `seaborn`.
+- Power BI	Desktop wersja Power BI.
 
 Pliki:
 
-SQL Scripts	Skrypty do tworzenia tabel, wstawiania danych i wykonywania zapytań.
-Python Scripts	Skrypt Pythona do analizy danych i generowania wykresów.
-Power BI Report	Dashboard w Power BI.
+- SQL Scripts	Skrypty do tworzenia tabel, wstawiania danych i wykonywania zapytań.
+- Python Scripts	Skrypt Pythona do analizy danych i generowania wykresów.
+- Power BI Report	Dashboard w Power BI.
 
