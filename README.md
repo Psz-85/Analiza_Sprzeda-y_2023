@@ -35,8 +35,8 @@ Wymagania:
 SQL	Dostęp do bazy danych kompatybilnej z SQL.
 Python	Biblioteki `pandas`, `matplotlib`, `seaborn`.
 Power BI	Desktop wersja Power BI.
-Pliki:
 
+Pliki:
 SQL Scripts	Skrypty do tworzenia tabel, wstawiania danych i wykonywania zapytań.
 Python Scripts	Skrypt Pythona do analizy danych i generowania wykresów.
 Power BI Report	Dashboard w Power BI.
