@@ -1,4 +1,5 @@
 Analiza Sprzedaży 2023
+
 Projekt analizy sprzedaży na podstawie danych dotyczących klientów, produktów, zamówień oraz szczegółów zamówień. Celem jest przeprowadzenie analizy przychodów według kategorii produktów oraz w czasie, a także stworzenie interaktywnych wizualizacji przy użyciu Power BI.
 
 Technologie:
