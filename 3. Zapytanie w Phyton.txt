@@ -59,7 +59,6 @@ revenue_over_time['YearMonth'] = revenue_over_time['YearMonth'].dt.to_timestamp(
 plt.figure(figsize=(12, 6))
 sns.lineplot(data=revenue_over_time, x='YearMonth', y='TotalSale', marker='o', color='blue')
 
-
 # Dodanie tytułu i etykiet
 plt.title('Przychody w czasie')
 plt.xlabel('Czas (rok-miesiąc)')
@@ -74,4 +73,3 @@ plt.savefig('revenue_over_time.png')
 
 # Pokaż wykres
 plt.show()
-
